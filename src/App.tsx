@@ -37,7 +37,7 @@ function App() {
       </div>
       
       <footer className="fixed bottom-4 text-white/60 text-sm">
-        Made with ❤️ using React
+        A website owned by Y.R.Ganesh. ©2025 All rights reserved.
       </footer>
     </div>
   );
