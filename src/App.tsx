@@ -37,7 +37,7 @@ function App() {
       </div>
       
       <footer className="fixed bottom-4 text-white/60 text-sm">
-        A website owned by Y.R.Ganesh. ©2025 All rights reserved.
+        A website owned by Y.R.Ganesh. &copy; 2025 All rights reserved.
       </footer>
     </div>
   );
